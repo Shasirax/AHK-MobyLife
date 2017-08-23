@@ -5,11 +5,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 Menu, Tray, Tip, EtelGaranti. Helps with Etel and other stuff. Made by and for Felix.
 
-:CO:EFB::
-	Send, felixb{Tab}
-	Sleep, 50
-	Send, 1234{Enter}
-Return
+;:CO:EFB::
+;	Send, felixb{Tab}
+;	Sleep, 50
+;	Send, 1234{Enter}
+;Return
 
 F9::
 	WinActivate, Fenrir
@@ -89,114 +89,112 @@ Return
 
 ;******************KF TEXT******************
 
-:O:kfdisp::{Space}att telefonens display är sprucken. Telefon har utsatts för yttre åverkan vilket innebär att vi kan inte laga telefons eventuellt övriga garantifel enligt reparationsprocessen förrän kostnadsförslag har godkänts. Detta är inget fabrikations eller tillverknings fel, skadan liknar det som uppstår genom tryck/tapp/kläm. Godkänns ej detta kostnadsförslag kommer telefon ej kunna repareras.
+:O:kfdisp::{Space}att telefonens display Ã¤r sprucken. Telefon har utsatts fÃ¶r yttre Ã¥verkan vilket innebÃ¤r att vi kan inte laga telefons eventuellt Ã¶vriga garantifel enligt reparationsprocessen fÃ¶rrÃ¤n kostnadsfÃ¶rslag har godkÃ¤nts. Detta Ã¤r inget fabrikations eller tillverknings fel, skadan liknar det som uppstÃ¥r genom tryck/tapp/klÃ¤m. GodkÃ¤nns ej detta kostnadsfÃ¶rslag kommer telefon ej kunna repareras.
 
-:O:kfspän::{Space}att telefonen har spänningsskador i sin display och tappskador längs ramen. Telefon har utsatts för yttre åverkan vilket innebär att vi kan inte laga telefons eventuellt övriga garantifel enligt reparationsprocessen förrän kostnadsförslag har godkänts. Detta är inget fabrikations eller tillverknings fel, skadan liknar det som uppstår genom tryck/tapp/kläm. Godkänns ej detta kostnadsförslag kommer telefon ej kunna repareras.
+:O:kfspÃ¤n::{Space}att telefonen har spÃ¤nningsskador i sin display och tappskador lÃ¤ngs ramen. Telefon har utsatts fÃ¶r yttre Ã¥verkan vilket innebÃ¤r att vi kan inte laga telefons eventuellt Ã¶vriga garantifel enligt reparationsprocessen fÃ¶rrÃ¤n kostnadsfÃ¶rslag har godkÃ¤nts. Detta Ã¤r inget fabrikations eller tillverknings fel, skadan liknar det som uppstÃ¥r genom tryck/tapp/klÃ¤m. GodkÃ¤nns ej detta kostnadsfÃ¶rslag kommer telefon ej kunna repareras.
 
-:O:kfdrb::{Space}att telefonens display och baksida är spruckna samt ram skadad. Telefon har utsatts för yttre åverkan vilket innebär att vi kan inte laga telefons eventuellt övriga garantifel enligt reparationsprocessen förrän kostnadsförslag har godkänts. Detta är inget fabrikations eller tillverknings fel, skadan liknar det som uppstår genom tryck/tapp/kläm. Godkänns ej detta kostnadsförslag kommer telefon ej kunna repareras.
+:O:kfdrb::{Space}att telefonens display och baksida Ã¤r spruckna samt ram skadad. Telefon har utsatts fÃ¶r yttre Ã¥verkan vilket innebÃ¤r att vi kan inte laga telefons eventuellt Ã¶vriga garantifel enligt reparationsprocessen fÃ¶rrÃ¤n kostnadsfÃ¶rslag har godkÃ¤nts. Detta Ã¤r inget fabrikations eller tillverknings fel, skadan liknar det som uppstÃ¥r genom tryck/tapp/klÃ¤m. GodkÃ¤nns ej detta kostnadsfÃ¶rslag kommer telefon ej kunna repareras.
 
-:O:kfdr::{Space}att telefonens display är sprucken samt ram skadad. Telefon har utsatts för yttre åverkan vilket innebär att vi kan inte laga telefons eventuellt övriga garantifel enligt reparationsprocessen förrän kostnadsförslag har godkänts. Detta är inget fabrikations eller tillverknings fel, skadan liknar det som uppstår genom tryck/tapp/kläm. Godkänns ej detta kostnadsförslag kommer telefon ej kunna repareras.
+:O:kfdr::{Space}att telefonens display Ã¤r sprucken samt ram skadad. Telefon har utsatts fÃ¶r yttre Ã¥verkan vilket innebÃ¤r att vi kan inte laga telefons eventuellt Ã¶vriga garantifel enligt reparationsprocessen fÃ¶rrÃ¤n kostnadsfÃ¶rslag har godkÃ¤nts. Detta Ã¤r inget fabrikations eller tillverknings fel, skadan liknar det som uppstÃ¥r genom tryck/tapp/klÃ¤m. GodkÃ¤nns ej detta kostnadsfÃ¶rslag kommer telefon ej kunna repareras.
 
-:O:kfsub::{Space}att telefonens laddningsenhet är skadad. Telefon har utsatts för yttre åverkan vilket innebär att vi kan inte laga telefons eventuellt övriga garantifel enligt reparationsprocessen förrän kostnadsförslag har godkänts. Detta är inget fabrikations eller tillverknings fel, skadan liknar det som uppstår genom tryck/tapp/kläm. Godkänns ej detta kostnadsförslag kommer telefon ej kunna repareras.
+:O:kfsub::{Space}att telefonens laddningsenhet Ã¤r skadad. Telefon har utsatts fÃ¶r yttre Ã¥verkan vilket innebÃ¤r att vi kan inte laga telefons eventuellt Ã¶vriga garantifel enligt reparationsprocessen fÃ¶rrÃ¤n kostnadsfÃ¶rslag har godkÃ¤nts. Detta Ã¤r inget fabrikations eller tillverknings fel, skadan liknar det som uppstÃ¥r genom tryck/tapp/klÃ¤m. GodkÃ¤nns ej detta kostnadsfÃ¶rslag kommer telefon ej kunna repareras.
 
-:O:kfback::{Space}att telefonens baksida är sprucken. Enheten öppnas via baksidan och därför måste denna bytas. Telefon har utsatts för yttre åverkan vilket innebär att vi kan inte laga telefons eventuellt övriga garantifel enligt reparationsprocessen förrän kostnadsförslag har godkänts. Detta är inget fabrikations eller tillverknings fel, skadan liknar det som uppstår genom tryck/tapp/kläm. Godkänns ej detta kostnadsförslag kommer telefon ej kunna repareras.
+:O:kfback::{Space}att telefonens baksida Ã¤r sprucken. Enheten Ã¶ppnas via baksidan och dÃ¤rfÃ¶r mÃ¥ste denna bytas. Telefon har utsatts fÃ¶r yttre Ã¥verkan vilket innebÃ¤r att vi kan inte laga telefons eventuellt Ã¶vriga garantifel enligt reparationsprocessen fÃ¶rrÃ¤n kostnadsfÃ¶rslag har godkÃ¤nts. Detta Ã¤r inget fabrikations eller tillverknings fel, skadan liknar det som uppstÃ¥r genom tryck/tapp/klÃ¤m. GodkÃ¤nns ej detta kostnadsfÃ¶rslag kommer telefon ej kunna repareras.
 
-:O:kfvät::{Space}telefonen har blivit utsatt för vätska/fukt. Tillverkaren godkänner inte yttre åverkan som garantiärende, detta är inget fabrikation eller tillverkningsfel. Vi anser inte det vara ekonomiskt försvarbart att reparera denna enhet då reparationspris kommer överstiga nypris. OBS{!} Bildbevis finns uppladdat åt kund i vårat system{!}
+:O:kfvÃ¤t::{Space}telefonen har blivit utsatt fÃ¶r vÃ¤tska/fukt. Tillverkaren godkÃ¤nner inte yttre Ã¥verkan som garantiÃ¤rende, detta Ã¤r inget fabrikation eller tillverkningsfel. Vi anser inte det vara ekonomiskt fÃ¶rsvarbart att reparera denna enhet dÃ¥ reparationspris kommer Ã¶verstiga nypris. OBS{!} Bildbevis finns uppladdat Ã¥t kund i vÃ¥rat system{!}
 
-:O:kfroot::{Space}att telefonen är rootad. En icke original mjukvara är installerad på enheten. Tillverkaren godkänner inte detta som garantiärende.
+:O:kfroot::{Space}att telefonen Ã¤r rootad. En icke original mjukvara Ã¤r installerad pÃ¥ enheten. Tillverkaren godkÃ¤nner inte detta som garantiÃ¤rende.
 
-:O:kfbat::{Space}att batteriets garanti har gått ut. (1 år){Space}
+:O:kfbat::{Space}att batteriets garanti har gÃ¥tt ut. (1 Ã¥r){Space}
 
-:O:kfgar::{Space}att enhets garanti har gått ut. (2 år)
+:O:kfgar::{Space}att enhets garanti har gÃ¥tt ut. (2 Ã¥r)
 
-:O:kfskrot::{Space}displayen är sprucken, ramen och chassit böjda, skador på kretskortet - kanske kortslutet, avger felaktiga strömvärden. Telefonen har blivit utsatt för yttre åverkan, tillverkaren godkänner inte detta som garanti ärende. Detta är inget fabrikation eller tillverknings fel, skadan liknar det som uppstår genom tryck/tapp/kläm. Reparation är inte lönsam eftersom reparationskostnaden skulle överstiga nypris. Kostnadsförslaget avser retur utan åtgärd. 
+:O:kfskrot::{Space}displayen Ã¤r sprucken, ramen och chassit bÃ¶jda, skador pÃ¥ kretskortet - kanske kortslutet, avger felaktiga strÃ¶mvÃ¤rden. Telefonen har blivit utsatt fÃ¶r yttre Ã¥verkan, tillverkaren godkÃ¤nner inte detta som garanti Ã¤rende. Detta Ã¤r inget fabrikation eller tillverknings fel, skadan liknar det som uppstÃ¥r genom tryck/tapp/klÃ¤m. Reparation Ã¤r inte lÃ¶nsam eftersom reparationskostnaden skulle Ã¶verstiga nypris. KostnadsfÃ¶rslaget avser retur utan Ã¥tgÃ¤rd. 
 
-:O:kfdöm::
-	InputBox, Varfor, Anledning, Varför är enheten utdömd?,,550,130,,,,,
-	Send, Det är inte garanti på apparaten och den går inte att reparera på grund av intrång. %Varfor%. Tillverkaren godkänner inte detta som garanti ärende. Vi erbjuder ingen reparation pga eventuella ESD-Skador som kan ha uppkommit vid intrång.
+:O:kfdÃ¶m::
+	InputBox, Varfor, Anledning, VarfÃ¶r Ã¤r enheten utdÃ¶md?,,550,130,,,,,
+	Send, Det Ã¤r inte garanti pÃ¥ apparaten och den gÃ¥r inte att reparera pÃ¥ grund av intrÃ¥ng. %Varfor%. Tillverkaren godkÃ¤nner inte detta som garanti Ã¤rende. Vi erbjuder ingen reparation pga eventuella ESD-Skador som kan ha uppkommit vid intrÃ¥ng.
 Return
 
-:O:kfupp::{Space}att enheten är låst till ett Google-konto. Detta är en stöldsskyddstjänst från Google och upplåsning täcks inte av garanti. För att kunna fortsätta med undersökning av din enhet måste telefonen låsas upp. Om kund har dessa uppgifter tillgängliga vänligen återkom med dessa uppgifter så bortses  kostnadsförslaget och ärendet fortskrider  som vanligt. Om kund nyligen bytt lösenord på sin mail/google-account kommer det dröja 72h innan detta lösenord kommer vara giltigt / kunna användas.
+:O:kfupp::{Space}att enheten Ã¤r lÃ¥st till ett Google-konto. Detta Ã¤r en stÃ¶ldsskyddstjÃ¤nst frÃ¥n Google och upplÃ¥sning tÃ¤cks inte av garanti. FÃ¶r att kunna fortsÃ¤tta med undersÃ¶kning av din enhet mÃ¥ste telefonen lÃ¥sas upp. Om kund har dessa uppgifter tillgÃ¤ngliga vÃ¤nligen Ã¥terkom med dessa uppgifter sÃ¥ bortses  kostnadsfÃ¶rslaget och Ã¤rendet fortskrider  som vanligt. Om kund nyligen bytt lÃ¶senord pÃ¥ sin mail/google-account kommer det drÃ¶ja 72h innan detta lÃ¶senord kommer vara giltigt / kunna anvÃ¤ndas.
 
-:O:kfifh::Inget fel funnet. Felsökt efter kunds beskrivning. Kostnadsförslag avser retur utan reparation. Test av samtal, laddning och funktioner ok. 
+:O:kfifh::Inget fel funnet. FelsÃ¶kt efter kunds beskrivning. KostnadsfÃ¶rslag avser retur utan reparation. Test av samtal, laddning och funktioner ok. 
 
-:O:kfstöld::{Space}enheten är stöldspärrad. Detta är inget vi kan laga utan ni får kontakta operatör eller polisen för mer information.
+:O:kfstÃ¶ld::{Space}enheten Ã¤r stÃ¶ldspÃ¤rrad. Detta Ã¤r inget vi kan laga utan ni fÃ¥r kontakta operatÃ¶r eller polisen fÃ¶r mer information.
 
-:O:kfefter::Efter godkänt kostnadsförslag så fortsätter garantireparation om så behövs.
+:O:kfefter::Efter godkÃ¤nt kostnadsfÃ¶rslag sÃ¥ fortsÃ¤tter garantireparation om sÃ¥ behÃ¶vs.
 
 ;****************KF DK TEXT*****************
 
-:CO:dkspän::Enheden har ydre skader i form af trykskader. Skærmen har spænninger i sig som kommer fra pres mod skærm. Garantien gælder ikke i dette tilfælde.
+:CO:dkspÃ¤n::Enheden har ydre skader i form af trykskader. SkÃ¦rmen har spÃ¦nninger i sig som kommer fra pres mod skÃ¦rm. Garantien gÃ¦lder ikke i dette tilfÃ¦lde.
 
-:CO:dklåst::Telefonen er låst med personlig kode eller mønsterkode.Oplys venligst denne kode, idet telefonen ikke kan afprøves for den af kunden oplyste fejl når den er låst. Kendes koden ikke, så vil der blive fremsendt et prisoverslag på oplåsning.
+:CO:dklÃ¥st::Telefonen er lÃ¥st med personlig kode eller mÃ¸nsterkode.Oplys venligst denne kode, idet telefonen ikke kan afprÃ¸ves for den af kunden oplyste fejl nÃ¥r den er lÃ¥st. Kendes koden ikke, sÃ¥ vil der blive fremsendt et prisoverslag pÃ¥ oplÃ¥sning.
 
-:CO:DKKVITTO::For at kunne viderebehandle den indsendte enhed, bedes du fremsende garantibevis med pris, gyldig købsdato og imeinummer.
+:CO:DKKVITTO::For at kunne viderebehandle den indsendte enhed, bedes du fremsende garantibevis med pris, gyldig kÃ¸bsdato og imeinummer.
 
-:CO:dkbat::Garantien på batteriet (12 måneder) er udløbet. Øvrige fejl repareres hvis det er muligt, såfremt de er under garantien.
+:CO:dkbat::Garantien pÃ¥ batteriet (12 mÃ¥neder) er udlÃ¸bet. Ã˜vrige fejl repareres hvis det er muligt, sÃ¥fremt de er under garantien.
 
-:CO:dkvät::Der er ingen garanti på enheden og ikke kan repareres, fordi telefonen er væskeskadet. Det er ikke økonomisk forsvarligt at reparere denne enhed, når prisen på reparationen vil overstige den aktuelle markedspris.
+:CO:dkvÃ¤t::Der er ingen garanti pÃ¥ enheden og ikke kan repareres, fordi telefonen er vÃ¦skeskadet. Det er ikke Ã¸konomisk forsvarligt at reparere denne enhed, nÃ¥r prisen pÃ¥ reparationen vil overstige den aktuelle markedspris.
 
 ;****************KF ENG TEXT****************
 
-:CO:engvät::The device is not covered by warranty claims and we do not offer a repair because the phone has been exposed to liquid. The producer does not allow this as a warranty covering repair and the repair center does not consider it to be economically viable since the cost excedes the cost of a new unit. Please observe the photos attached to the service order.
+:CO:engvÃ¤t::The device is not covered by warranty claims and we do not offer a repair because the phone has been exposed to liquid. The producer does not allow this as a warranty covering repair and the repair center does not consider it to be economically viable since the cost excedes the cost of a new unit. Please observe the photos attached to the service order.
 
 
 ;****************Beskrivelse****************
 :CO:KOM::
 	InputBox, Delar, Delar, Vilka delar byttes?,,250,130,,,,,kretskort
-	Send, Byte av %Delar%.{enter}Mjukvara uppdaterad. Enhet återställd. {enter}Test av samtal, laddning och funktioner ok. {enter 2}Skick: Repor på display, ram och baksida.
+	Send, Byte av %Delar%.{enter}Mjukvara uppdaterad. Enhet Ã¥terstÃ¤lld. {enter}Test av samtal, laddning och funktioner ok. {enter 2}Skick: Repor pÃ¥ display, ram och baksida.
 Return
 
 :CO:KOMKF::
 	InputBox, Delar, Delar, Vilka delar byttes?,,250,130,,,,,display
-	Send, Byte av %Delar%.{enter}Test av samtal, laddning och begränsat funktionstest ok. {enter 2}Skick:{Space}
+	Send, Byte av %Delar%.{enter}Test av samtal, laddning och begrÃ¤nsat funktionstest ok. {enter 2}Skick:{Space}
 Return
 
-:CO:mictest::Kund kan själv testa samtalshögtalare samt mikrofon genom att skriva in *{#}0283{#} i telefon-appen. Detta öppnar en testmeny.
+:CO:mictest::Kund kan sjÃ¤lv testa samtalshÃ¶gtalare samt mikrofon genom att skriva in *{#}0283{#} i telefon-appen. Detta Ã¶ppnar en testmeny.
 
-:CO:IFH::Inget fel funnet. Felsökt efter kunds beskrivning.{enter}Returneras utan reparation.{enter}Test av samtal, laddning och funktioner ok. {enter 2}Skick:{Space} 
+:CO:IFH::Inget fel funnet. FelsÃ¶kt efter kunds beskrivning.{enter}Returneras utan reparation.{enter}Test av samtal, laddning och funktioner ok. {enter 2}Skick:{Space} 
 
-:CO:tänkpå::Tänk på att Samsung ansvarar inte för nedsatt funktionalitet orsakad genom t.ex. installation av tredjeparts-mjukvaran. Ni ansvarar själva för vad Ni installerar i telefonen och hur detta påverkar telefonen/mjukvarans funktionalitet.
+:CO:tÃ¤nkpÃ¥::TÃ¤nk pÃ¥ att Samsung ansvarar inte fÃ¶r nedsatt funktionalitet orsakad genom t.ex. installation av tredjeparts-mjukvaran. Ni ansvarar sjÃ¤lva fÃ¶r vad Ni installerar i telefonen och hur detta pÃ¥verkar telefonen/mjukvarans funktionalitet.
 
-:CO:RUR::Returnerad utan åtgärd på kunds begäran.
+:CO:RUR::Returnerad utan Ã¥tgÃ¤rd pÃ¥ kunds begÃ¤ran.
 
-:CO:RURU::Returnerad utan åtgärd på grund av uteblivet svar.
+:CO:RURU::Returnerad utan Ã¥tgÃ¤rd pÃ¥ grund av uteblivet svar.
 
-:CO:SKROT::Skrotas på kunds begäran.
+:CO:SKROT::Skrotas pÃ¥ kunds begÃ¤ran.
 
-:CO:KABEL::Skickar även med en ny laddningskabel.
+:CO:KABEL::Skickar Ã¤ven med en ny laddningskabel.
 
-:CO:STRÖM::Uppmätta strömvärden på telefonen med Samsungs power/current tester är normala.
+:CO:STRÃ–M::UppmÃ¤tta strÃ¶mvÃ¤rden pÃ¥ telefonen med Samsungs power/current tester Ã¤r normala.
 
-:CO:KALI::Kalibreringskontroll av sändning och mottagning U.A, helt enligt specifikationerna.
+:CO:KALI::Kalibreringskontroll av sÃ¤ndning och mottagning U.A, helt enligt specifikationerna.
 
-:CO:DRB::Repor på display, ram och baksida.
+:CO:DRB::Repor pÃ¥ display, ram och baksida.
 
 :CO:RCD::Rekl CNA Disp{Space}
 
-:CO:SCON::Skickas till Conmodo enligt avtal. {Enter}Gammalt ordernummer: NUMMER .{Enter}Nytt ordernummer: NUMMER .{Enter}Undersökningsavgift erlagd.
+:CO:SCON::Skickas till Conmodo enligt avtal. {Enter}Gammalt ordernummer: NUMMER .{Enter}Nytt ordernummer: NUMMER .{Enter}UndersÃ¶kningsavgift erlagd.
 
-:CO:VARM::Att enheten blir varm vid laddning kan bero på att enheten har funktionen snabbladdning. Denna gör att enheten laddar snabbt men kan också skapa högre värme i enheten. Detta är normalt. Om kund vill stänga av denna funktionen så finns det inställningar för detta under Batteri i inställningsappen. 
+:CO:VARM::Att enheten blir varm vid laddning kan bero pÃ¥ att enheten har funktionen snabbladdning. Denna gÃ¶r att enheten laddar snabbt men kan ocksÃ¥ skapa hÃ¶gre vÃ¤rme i enheten. Detta Ã¤r normalt. Om kund vill stÃ¤nga av denna funktionen sÃ¥ finns det instÃ¤llningar fÃ¶r detta under Batteri i instÃ¤llningsappen. 
 
-:CO:UTLÄNDSKMOBIL::Enheten är ej producerad för bruk inom Skandinavien. {Enter}Detta gör att den kan ha problem vid bruk inom Skandinavien med vissa operatörer. {Enter}Tyvärr så kan vi reparera detta då det inte är ett fel. {Enter}Vänligen kontakta er operatör för mer information.
+:CO:UTLÃ„NDSKMOBIL::Enheten Ã¤r ej producerad fÃ¶r bruk inom Skandinavien. {Enter}Detta gÃ¶r att den kan ha problem vid bruk inom Skandinavien med vissa operatÃ¶rer. {Enter}TyvÃ¤rr sÃ¥ kan vi reparera detta dÃ¥ det inte Ã¤r ett fel. {Enter}VÃ¤nligen kontakta er operatÃ¶r fÃ¶r mer information.
 
 ;**************DK Beskrivelse***************
 
-:CO:BYTE::udskiftet. SW opdateret. Afprøvet og fundet OK. {enter}Venligst oplad telefonen 1 time før brug. 
+:CO:BYTE::udskiftet. SW opdateret. AfprÃ¸vet og fundet OK. {enter}Venligst oplad telefonen 1 time fÃ¸r brug. 
 
 ;*****************Meldinger*****************
-:CO:VÄNTAR::Hej. Telefonens reparation är påbörjad, men dessvärre måste vi vänta på delar. Så fort delen kommer in så börjar arbetet igen. Mvh MobyLife
+:CO:VÃ„NTAR::Hej. Telefonens reparation Ã¤r pÃ¥bÃ¶rjad, men dessvÃ¤rre mÃ¥ste vi vÃ¤nta pÃ¥ delar. SÃ¥ fort delen kommer in sÃ¥ bÃ¶rjar arbetet igen. Mvh MobyLife
 
-:CO:LCDFÄRG::Lcd bytt på grund av färgsläpp. {Space}
+:CO:LCDFÃ„RG::Lcd bytt pÃ¥ grund av fÃ¤rgslÃ¤pp. {Space}
 
 :CO:IMEIFEL::
 	InputBox, IMEI1, IMEI, Enhets IMEI?,,250,130,,,,,
 	InputBox, IMEI2, IMEI, Orders IMEI?,,250,130,,,,,
-	Send, Fel IMEI på inskickad enhet. Enhets IMEI: %IMEI1%. Orders/kvittos IMEI: %IMEI2%. Är detta rätt enhet?
+	Send, Fel IMEI pÃ¥ inskickad enhet. Enhets IMEI: %IMEI1%. Orders/kvittos IMEI: %IMEI2%. Ã„r detta rÃ¤tt enhet?
 Return
 
-:CO:TELESTÖLD::Hej, jag heter Felix Brolléus och jag jobbar på MobyLife i Åkarp. Jag har en mobil som inte vill koppla upp till nät här så jag tänkte om ni kunde kolla om den är stöldspärrad? IMEI:{Space}
-
 ;*****************Start program*************
-^e::Run, "C:\Users\170310\Desktop\Etel.lnk"
+;^e::Run, "C:\Users\170310\Desktop\Etel.lnk"
 
